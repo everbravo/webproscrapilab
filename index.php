@@ -5,6 +5,6 @@
 	<title>Pro-ScrapiLab</title>
 </head>
 <body>
-	
+	<?php include_once "views/sections/header.php"?>
 </body>
 </html>
